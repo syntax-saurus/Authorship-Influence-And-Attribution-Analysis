@@ -1,0 +1,2 @@
+1. Same Or Different? Diff Vectors For Authorship Analysis
+2. Authors Writing Styles Based Authorship Identification System Using The Text Representatoion Vector
