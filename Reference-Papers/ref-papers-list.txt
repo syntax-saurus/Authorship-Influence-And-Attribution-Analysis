@@ -1,3 +1,12 @@
+List of references (papers and the like) used:
+
+Soumili Ghosh:
+1. 
+
+Kishlay Kashyap: 
+1. 
+
+Arghya Chakraborty:
 1. Same Or Different? Diff Vectors For Authorship Analysis
 2. Authors Writing Styles Based Authorship Identification System Using The Text Representatoion Vector
 3. A Mathematical Theory of Communication
