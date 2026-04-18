@@ -1,2 +1,8 @@
 1. Same Or Different? Diff Vectors For Authorship Analysis
 2. Authors Writing Styles Based Authorship Identification System Using The Text Representatoion Vector
+3. A Mathematical Theory of Communication
+4. A Survey of Modern Authorship Attribution Methods
+5. Can Type-Token Ratio be Used to Show Morphological Complexity of Languages
+6. MTLD, vocd-D, and HD-D: A Validation Study of Sophisticated Approaches to Lexical Diversity Assessment
+7. Type-Token Ratios What do they Really Tell us
+8. bnlp-toolkit Bengali Natural Language Processing Toolkit
